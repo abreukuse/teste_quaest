@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
     if grafico_01:
         st.header('Primeiro gráfico')
-        st.plotly_chart(plot_01(dados=dados, coluna_voto='Intenção de voto'))
+        st.plotly_chart(plot_01(dados=dados, coluna_voto='Intenção de voto'), use_container_width=True)
         st.markdown(descricao_plot01, unsafe_allow_html=True)
 
     # Segunda visualização
@@ -73,5 +73,5 @@ if __name__ == '__main__':
         st.plotly_chart(plot_02(dados=dados,
                                 coluna_voto='Intenção de voto',
                                 variavel=variavel, 
-                                barmode=barmode))
+                                barmode=barmode), use_container_width=True)
         st.markdown(descricoes_plot02()[variavel], unsafe_allow_html=True)
