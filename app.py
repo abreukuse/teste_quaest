@@ -59,7 +59,7 @@ if __name__ == '__main__':
     # Segunda visualização
     grafico_02 = st.sidebar.checkbox(label='Mostrar o segundo gráfico.')
     default_variable = opcoes.index('Avaliação do governo')
-    variavel_comparacao = [item for item in opcoes if item != 'Candidatos']
+    variavel_comparacao = [item for item in opcoes if item != 'Intenção de voto']
 
     if grafico_02:
         st.header('Segundo gráfico')
