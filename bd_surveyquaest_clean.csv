@@ -15,13 +15,13 @@ Masculino,35,Médio completo,Boa,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
 Masculino,21,Médio completo,Boa,Candidato 1,17-24,7838.0,de 5 a 10
 Masculino,71,Fundamental incompleto,Boa,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,42,Médio completo,Boa,Candidato 2,35-44,2613.0,de 2 a 3
-Masculino,46,Superior completo,Boa,Não sabem/Não responderam,45-54,4180.5,de 3 a 5
+Masculino,46,Superior completo,Boa,Não sabem,45-54,4180.5,de 3 a 5
 Masculino,20,Médio completo,Boa,Candidato 3,17-24,2613.0,de 2 a 3
-Masculino,71,Médio completo,Ruim,Não sabem/Não responderam,65+,4180.5,de 3 a 5
-Masculino,22,Médio completo,Regular negativa,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
-Masculino,58,Sem instrução,Regular positiva,Não sabem/Não responderam,55-64,1568.0,de 1 a 2
-Masculino,65,Fundamental incompleto,Ruim,Não sabem/Não responderam,65+,1568.0,de 1 a 2
-Masculino,30,Superior incompleto,Péssima,Não sabem/Não responderam,25-34,7838.0,de 5 a 10
+Masculino,71,Médio completo,Ruim,Não sabem,65+,4180.5,de 3 a 5
+Masculino,22,Médio completo,Regular negativa,Não sabem,17-24,2613.0,de 2 a 3
+Masculino,58,Sem instrução,Regular positiva,Não sabem,55-64,1568.0,de 1 a 2
+Masculino,65,Fundamental incompleto,Ruim,Não sabem,65+,1568.0,de 1 a 2
+Masculino,30,Superior incompleto,Péssima,Não sabem,25-34,7838.0,de 5 a 10
 Masculino,49,Médio completo,Boa,Candidato 4,45-54,7838.0,de 5 a 10
 Masculino,60,Superior completo,Regular positiva,Candidato 4,55-64,7838.0,de 5 a 10
 Masculino,65,Médio completo,Regular positiva,Candidato 2,65+,13063.0,de 10 a 15
@@ -32,7 +32,7 @@ Masculino,35,Superior completo,Regular negativa,Candidato 5,35-44,7838.0,de 5 a 
 Masculino,58,Fundamental incompleto,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Masculino,23,Médio incompleto,Regular positiva,Ninguém/Branco/Nulo,17-24,4180.5,de 3 a 5
 Masculino,64,Fundamental incompleto,Regular positiva,Candidato 2,55-64,1045.0,até 1
-Masculino,54,Fundamental completo,Não sabem/Não responderam,Não sabem/Não responderam,65+,2613.0,de 2 a 3
+Masculino,54,Fundamental completo,Não sabem,Não sabem,65+,2613.0,de 2 a 3
 Masculino,60,Médio completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
 Masculino,20,Médio incompleto,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Masculino,27,Médio completo,Ótima,Candidato 2,25-34,2613.0,de 2 a 3
@@ -64,58 +64,58 @@ Masculino,24,Médio completo,Regular positiva,Candidato 2,17-24,2613.0,de 2 a 3
 Masculino,70,Médio completo,Regular positiva,Candidato 1,65+,1568.0,de 1 a 2
 Masculino,37,Médio completo,Regular positiva,Ninguém/Branco/Nulo,35-44,1045.0,até 1
 Masculino,51,Médio completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
-Masculino,40,Médio incompleto,Regular negativa,Não sabem/Não responderam,35-44,1045.0,até 1
-Masculino,40,Médio completo,Não sabem/Não responderam,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
+Masculino,40,Médio incompleto,Regular negativa,Não sabem,35-44,1045.0,até 1
+Masculino,40,Médio completo,Não sabem,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
 Masculino,51,Médio completo,Regular positiva,Candidato 2,45-54,2613.0,de 2 a 3
 Masculino,66,Médio completo,Boa,Candidato 2,65+,2613.0,de 2 a 3
 Masculino,60,Fundamental incompleto,Ruim,Candidato 3,55-64,2613.0,de 2 a 3
 Masculino,42,Fundamental completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Masculino,30,Médio completo,Boa,Candidato 2,25-34,7838.0,de 5 a 10
-Masculino,22,Superior incompleto,Regular negativa,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Masculino,22,Superior incompleto,Regular negativa,Não sabem,17-24,1568.0,de 1 a 2
 Masculino,26,Superior completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
-Masculino,19,Médio completo,Não sabem/Não responderam,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Masculino,19,Médio completo,Não sabem,Não sabem,17-24,2613.0,de 2 a 3
 Masculino,41,Superior completo,Regular positiva,Ninguém/Branco/Nulo,35-44,18288.0,de 15 a 20
 Masculino,39,Médio completo,Regular positiva,Candidato 2,35-44,4180.5,de 3 a 5
 Masculino,24,Superior completo,Regular negativa,Candidato 3,17-24,4180.5,de 3 a 5
-Masculino,39,Superior incompleto,Péssima,Não sabem/Não responderam,35-44,1045.0,até 1
-Masculino,56,Superior incompleto,Boa,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
-Masculino,39,Superior completo,Boa,Não sabem/Não responderam,35-44,2613.0,de 2 a 3
+Masculino,39,Superior incompleto,Péssima,Não sabem,35-44,1045.0,até 1
+Masculino,56,Superior incompleto,Boa,Não sabem,55-64,4180.5,de 3 a 5
+Masculino,39,Superior completo,Boa,Não sabem,35-44,2613.0,de 2 a 3
 Masculino,19,Superior incompleto,Boa,Ninguém/Branco/Nulo,17-24,2613.0,de 2 a 3
 Masculino,25,Médio completo,Regular positiva,Candidato 8,25-34,4180.5,de 3 a 5
 Masculino,57,Médio completo,Boa,Candidato 2,55-64,1045.0,até 1
 Masculino,65,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
 Masculino,40,Superior completo,Ruim,Candidato 9,35-44,7838.0,de 5 a 10
-Masculino,35,Fundamental completo,Péssima,Não sabem/Não responderam,35-44,2613.0,de 2 a 3
+Masculino,35,Fundamental completo,Péssima,Não sabem,35-44,2613.0,de 2 a 3
 Masculino,38,Superior incompleto,Regular negativa,Candidato 4,35-44,2613.0,de 2 a 3
 Masculino,28,Superior incompleto,Péssima,Candidato 10,25-34,13063.0,de 10 a 15
 Masculino,26,Médio completo,Ótima,Candidato 2,25-34,1568.0,de 1 a 2
 Masculino,45,Médio completo,Boa,Candidato 4,45-54,7838.0,de 5 a 10
 Masculino,61,Fundamental completo,Ruim,Ninguém/Branco/Nulo,55-64,1568.0,de 1 a 2
-Masculino,43,Médio incompleto,Regular positiva,Não sabem/Não responderam,35-44,20900.0,mais de 20
+Masculino,43,Médio incompleto,Regular positiva,Não sabem,35-44,20900.0,mais de 20
 Masculino,51,Médio completo,Boa,Candidato 2,45-54,13063.0,de 10 a 15
 Masculino,18,Médio completo,Ótima,Candidato 2,17-24,7838.0,de 5 a 10
 Masculino,30,Médio incompleto,Ótima,Candidato 2,25-34,7838.0,de 5 a 10
 Masculino,68,Médio completo,Boa,Ninguém/Branco/Nulo,65+,1568.0,de 1 a 2
-Masculino,50,Médio completo,Regular positiva,Não sabem/Não responderam,45-54,7838.0,de 5 a 10
+Masculino,50,Médio completo,Regular positiva,Não sabem,45-54,7838.0,de 5 a 10
 Masculino,38,Superior completo,Péssima,Candidato 1,35-44,7838.0,de 5 a 10
 Masculino,19,Médio completo,Regular negativa,Candidato 3,17-24,1568.0,de 1 a 2
 Masculino,18,Médio completo,Regular positiva,Candidato 2,17-24,4180.5,de 3 a 5
 Masculino,70,Sem instrução,Ótima,Candidato 2,65+,1045.0,até 1
 Masculino,62,Fundamental incompleto,Ruim,Candidato 1,55-64,1045.0,até 1
 Masculino,58,Médio completo,Regular negativa,Candidato 1,55-64,13063.0,de 10 a 15
-Masculino,62,Superior completo,Regular positiva,Não sabem/Não responderam,55-64,18288.0,de 15 a 20
+Masculino,62,Superior completo,Regular positiva,Não sabem,55-64,18288.0,de 15 a 20
 Masculino,35,Superior completo,Péssima,Ninguém/Branco/Nulo,35-44,1568.0,de 1 a 2
 Masculino,22,Médio completo,Ótima,Candidato 2,17-24,2613.0,de 2 a 3
 Masculino,24,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Masculino,25,Médio completo,Ótima,Candidato 2,25-34,1045.0,até 1
 Masculino,43,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,35-44,1045.0,até 1
 Masculino,23,Médio completo,Regular positiva,Candidato 10,17-24,1045.0,até 1
-Masculino,37,Médio completo,Ótima,Não sabem/Não responderam,35-44,1045.0,até 1
+Masculino,37,Médio completo,Ótima,Não sabem,35-44,1045.0,até 1
 Masculino,46,Superior completo,Ruim,Candidato 9,45-54,4180.5,de 3 a 5
 Masculino,66,Fundamental incompleto,Boa,Candidato 2,65+,1045.0,até 1
 Masculino,17,Médio incompleto,Boa,Ninguém/Branco/Nulo,17-24,1568.0,de 1 a 2
 Masculino,45,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
-Masculino,25,Médio incompleto,Regular positiva,Não sabem/Não responderam,25-34,1045.0,até 1
+Masculino,25,Médio incompleto,Regular positiva,Não sabem,25-34,1045.0,até 1
 Masculino,60,Médio completo,Ruim,Ninguém/Branco/Nulo,55-64,4180.5,de 3 a 5
 Masculino,60,Fundamental incompleto,Ótima,Candidato 2,55-64,1045.0,até 1
 Masculino,40,Fundamental completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
@@ -124,7 +124,7 @@ Masculino,23,Fundamental completo,Boa,Candidato 2,17-24,4180.5,de 3 a 5
 Masculino,60,Fundamental completo,Ótima,Candidato 2,55-64,4180.5,de 3 a 5
 Masculino,63,Médio incompleto,Boa,Candidato 2,55-64,1045.0,até 1
 Masculino,30,Superior incompleto,Boa,Candidato 2,25-34,4180.5,de 3 a 5
-Masculino,19,Médio completo,Regular positiva,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Masculino,19,Médio completo,Regular positiva,Não sabem,17-24,1568.0,de 1 a 2
 Masculino,28,Médio completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Masculino,47,Superior completo,Péssima,Candidato 11,45-54,1568.0,de 1 a 2
 Masculino,34,Médio completo,Ótima,Candidato 2,25-34,1045.0,até 1
@@ -142,25 +142,25 @@ Masculino,39,Superior completo,Ótima,Candidato 2,35-44,4180.5,de 3 a 5
 Masculino,37,Superior completo,Boa,Candidato 2,35-44,20900.0,mais de 20
 Masculino,22,Superior incompleto,Boa,Candidato 2,17-24,7838.0,de 5 a 10
 Masculino,25,Fundamental incompleto,Regular negativa,Candidato 2,25-34,4180.5,de 3 a 5
-Masculino,28,Médio incompleto,Ruim,Não sabem/Não responderam,25-34,4180.5,de 3 a 5
+Masculino,28,Médio incompleto,Ruim,Não sabem,25-34,4180.5,de 3 a 5
 Masculino,58,Fundamental completo,Regular positiva,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,60,Fundamental completo,Ruim,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Masculino,62,Fundamental incompleto,Boa,Candidato 2,55-64,1568.0,de 1 a 2
-Masculino,75,Superior completo,Regular positiva,Não sabem/Não responderam,65+,4180.5,de 3 a 5
-Masculino,26,Superior incompleto,Péssima,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Masculino,75,Superior completo,Regular positiva,Não sabem,65+,4180.5,de 3 a 5
+Masculino,26,Superior incompleto,Péssima,Não sabem,25-34,2613.0,de 2 a 3
 Masculino,34,Superior completo,Boa,Candidato 2,25-34,7838.0,de 5 a 10
-Masculino,55,Fundamental completo,Regular positiva,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Masculino,55,Fundamental completo,Regular positiva,Não sabem,55-64,4180.5,de 3 a 5
 Masculino,26,Médio completo,Regular positiva,Candidato 6,25-34,2613.0,de 2 a 3
 Masculino,66,Superior completo,Péssima,Ninguém/Branco/Nulo,65+,1045.0,até 1
 Masculino,69,Fundamental incompleto,Boa,Candidato 2,65+,7838.0,de 5 a 10
 Masculino,54,Fundamental incompleto,Regular negativa,Ninguém/Branco/Nulo,65+,1045.0,até 1
-Masculino,30,Fundamental incompleto,Boa,Não sabem/Não responderam,25-34,20900.0,mais de 20
+Masculino,30,Fundamental incompleto,Boa,Não sabem,25-34,20900.0,mais de 20
 Masculino,38,Superior completo,Ótima,Candidato 2,35-44,1045.0,até 1
-Masculino,46,Superior completo,Boa,Não sabem/Não responderam,45-54,2613.0,de 2 a 3
+Masculino,46,Superior completo,Boa,Não sabem,45-54,2613.0,de 2 a 3
 Masculino,40,Médio completo,Boa,Candidato 2,35-44,1045.0,até 1
 Masculino,39,Médio completo,Ruim,Candidato 1,35-44,1568.0,de 1 a 2
 Masculino,67,Médio incompleto,Ótima,Candidato 2,65+,1568.0,de 1 a 2
-Masculino,65,Superior completo,Péssima,Não sabem/Não responderam,65+,7838.0,de 5 a 10
+Masculino,65,Superior completo,Péssima,Não sabem,65+,7838.0,de 5 a 10
 Masculino,31,Médio completo,Regular positiva,Ninguém/Branco/Nulo,25-34,1045.0,até 1
 Masculino,62,Fundamental completo,Regular positiva,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,25,Superior completo,Boa,Candidato 2,25-34,18288.0,de 15 a 20
@@ -177,10 +177,10 @@ Masculino,25,Médio completo,Regular positiva,Candidato 2,25-34,7838.0,de 5 a 10
 Masculino,53,Fundamental completo,Ótima,Candidato 2,45-54,2613.0,de 2 a 3
 Masculino,35,Médio completo,Regular positiva,Candidato 9,35-44,2613.0,de 2 a 3
 Masculino,25,Superior incompleto,Regular positiva,Candidato 1,25-34,1568.0,de 1 a 2
-Masculino,57,Médio completo,Regular negativa,Não sabem/Não responderam,55-64,1568.0,de 1 a 2
+Masculino,57,Médio completo,Regular negativa,Não sabem,55-64,1568.0,de 1 a 2
 Masculino,47,Superior completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Masculino,17,Médio completo,Ótima,Candidato 2,17-24,2613.0,de 2 a 3
-Masculino,30,Superior completo,Boa,Não sabem/Não responderam,25-34,7838.0,de 5 a 10
+Masculino,30,Superior completo,Boa,Não sabem,25-34,7838.0,de 5 a 10
 Masculino,27,Superior completo,Boa,Candidato 2,25-34,4180.5,de 3 a 5
 Masculino,52,Fundamental incompleto,Péssima,Ninguém/Branco/Nulo,45-54,1045.0,até 1
 Masculino,44,Médio completo,Péssima,Candidato 8,65+,2613.0,de 2 a 3
@@ -191,11 +191,11 @@ Masculino,57,Fundamental completo,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,69,Fundamental completo,Ótima,Candidato 2,65+,1045.0,até 1
 Masculino,65,Fundamental incompleto,Péssima,Ninguém/Branco/Nulo,65+,1045.0,até 1
 Masculino,55,Médio incompleto,Ótima,Candidato 12,55-64,1568.0,de 1 a 2
-Masculino,25,Médio completo,Ruim,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Masculino,25,Médio completo,Ruim,Não sabem,25-34,2613.0,de 2 a 3
 Masculino,51,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Masculino,41,Médio completo,Boa,Candidato 6,35-44,1568.0,de 1 a 2
 Masculino,43,Fundamental completo,Ótima,Candidato 2,35-44,1568.0,de 1 a 2
-Masculino,39,Médio completo,Ruim,Não sabem/Não responderam,35-44,4180.5,de 3 a 5
+Masculino,39,Médio completo,Ruim,Não sabem,35-44,4180.5,de 3 a 5
 Masculino,67,Médio completo,Regular negativa,Ninguém/Branco/Nulo,65+,2613.0,de 2 a 3
 Masculino,50,Fundamental completo,Boa,Candidato 9,45-54,1045.0,até 1
 Masculino,19,Médio completo,Regular positiva,Candidato 9,17-24,13063.0,de 10 a 15
@@ -216,14 +216,14 @@ Masculino,60,Médio incompleto,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Masculino,20,Médio completo,Boa,Candidato 2,17-24,7838.0,de 5 a 10
 Masculino,20,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Masculino,44,Superior completo,Boa,Candidato 2,65+,4180.5,de 3 a 5
-Masculino,42,Fundamental completo,Péssima,Não sabem/Não responderam,35-44,7838.0,de 5 a 10
+Masculino,42,Fundamental completo,Péssima,Não sabem,35-44,7838.0,de 5 a 10
 Masculino,46,Fundamental incompleto,Regular negativa,Ninguém/Branco/Nulo,45-54,1045.0,até 1
 Masculino,34,Superior completo,Ótima,Candidato 8,25-34,4180.5,de 3 a 5
 Masculino,61,Fundamental incompleto,Regular positiva,Candidato 1,55-64,2613.0,de 2 a 3
 Masculino,25,Médio completo,Boa,Candidato 3,25-34,1568.0,de 1 a 2
 Masculino,60,Superior incompleto,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Masculino,18,Médio completo,Regular positiva,Candidato 10,17-24,1568.0,de 1 a 2
-Masculino,30,Médio completo,Boa,Não sabem/Não responderam,25-34,4180.5,de 3 a 5
+Masculino,30,Médio completo,Boa,Não sabem,25-34,4180.5,de 3 a 5
 Masculino,41,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Masculino,65,Fundamental incompleto,Boa,Candidato 1,65+,1568.0,de 1 a 2
 Masculino,23,Médio incompleto,Regular positiva,Candidato 2,17-24,1568.0,de 1 a 2
@@ -233,7 +233,7 @@ Masculino,40,Superior completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Masculino,31,Médio completo,Regular negativa,Ninguém/Branco/Nulo,25-34,2613.0,de 2 a 3
 Masculino,42,Superior completo,Péssima,Candidato 12,35-44,7838.0,de 5 a 10
 Masculino,37,Superior incompleto,Regular positiva,Candidato 8,35-44,4180.5,de 3 a 5
-Masculino,55,Superior completo,Ruim,Não sabem/Não responderam,55-64,2613.0,de 2 a 3
+Masculino,55,Superior completo,Ruim,Não sabem,55-64,2613.0,de 2 a 3
 Masculino,39,Superior completo,Boa,Candidato 1,35-44,4180.5,de 3 a 5
 Masculino,52,Fundamental incompleto,Ótima,Candidato 1,45-54,2613.0,de 2 a 3
 Masculino,59,Médio completo,Regular positiva,Candidato 1,55-64,7838.0,de 5 a 10
@@ -247,7 +247,7 @@ Masculino,31,Superior incompleto,Boa,Candidato 9,25-34,4180.5,de 3 a 5
 Masculino,61,Médio completo,Regular negativa,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Masculino,37,Médio incompleto,Regular negativa,Candidato 9,35-44,1045.0,até 1
 Masculino,40,Médio completo,Regular positiva,Candidato 2,35-44,1568.0,de 1 a 2
-Masculino,18,Médio incompleto,Regular negativa,Não sabem/Não responderam,17-24,13063.0,de 10 a 15
+Masculino,18,Médio incompleto,Regular negativa,Não sabem,17-24,13063.0,de 10 a 15
 Masculino,42,Médio completo,Boa,Candidato 2,35-44,13063.0,de 10 a 15
 Masculino,20,Médio completo,Regular positiva,Ninguém/Branco/Nulo,17-24,13063.0,de 10 a 15
 Masculino,37,Superior completo,Ótima,Candidato 2,35-44,7838.0,de 5 a 10
@@ -256,7 +256,7 @@ Masculino,49,Fundamental completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Masculino,59,Superior incompleto,Boa,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Masculino,58,Médio completo,Regular negativa,Ninguém/Branco/Nulo,55-64,1568.0,de 1 a 2
 Masculino,27,Médio completo,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
-Masculino,67,Fundamental completo,Regular positiva,Não sabem/Não responderam,65+,4180.5,de 3 a 5
+Masculino,67,Fundamental completo,Regular positiva,Não sabem,65+,4180.5,de 3 a 5
 Masculino,44,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,65+,1045.0,até 1
 Masculino,60,Fundamental completo,Boa,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,25,Fundamental incompleto,Boa,Candidato 2,25-34,7838.0,de 5 a 10
@@ -275,14 +275,14 @@ Masculino,47,Médio completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Masculino,33,Médio incompleto,Regular negativa,Ninguém/Branco/Nulo,25-34,1045.0,até 1
 Masculino,30,Superior incompleto,Regular negativa,Candidato 1,25-34,7838.0,de 5 a 10
 Masculino,65,Fundamental incompleto,Ótima,Candidato 1,65+,1568.0,de 1 a 2
-Masculino,26,Superior completo,Regular negativa,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Masculino,26,Superior completo,Regular negativa,Não sabem,25-34,2613.0,de 2 a 3
 Masculino,68,Sem instrução,Boa,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,24,Médio incompleto,Boa,Candidato 2,17-24,2613.0,de 2 a 3
-Masculino,39,Superior completo,Boa,Não sabem/Não responderam,35-44,7838.0,de 5 a 10
+Masculino,39,Superior completo,Boa,Não sabem,35-44,7838.0,de 5 a 10
 Masculino,33,Superior completo,Boa,Candidato 2,25-34,18288.0,de 15 a 20
 Masculino,32,Médio completo,Ótima,Candidato 2,25-34,7838.0,de 5 a 10
 Masculino,39,Fundamental incompleto,Boa,Candidato 2,35-44,2613.0,de 2 a 3
-Masculino,23,Superior completo,Boa,Não sabem/Não responderam,17-24,4180.5,de 3 a 5
+Masculino,23,Superior completo,Boa,Não sabem,17-24,4180.5,de 3 a 5
 Masculino,41,Médio incompleto,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Masculino,32,Superior incompleto,Regular positiva,Candidato 2,25-34,2613.0,de 2 a 3
 Masculino,46,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
@@ -306,13 +306,13 @@ Masculino,43,Médio incompleto,Boa,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
 Masculino,50,Superior completo,Regular negativa,Candidato 1,45-54,1568.0,de 1 a 2
 Masculino,18,Médio incompleto,Ótima,Candidato 2,17-24,1568.0,de 1 a 2
 Masculino,23,Médio incompleto,Boa,Candidato 2,17-24,1045.0,até 1
-Masculino,36,Médio incompleto,Boa,Não sabem/Não responderam,35-44,2613.0,de 2 a 3
+Masculino,36,Médio incompleto,Boa,Não sabem,35-44,2613.0,de 2 a 3
 Masculino,57,Fundamental completo,Péssima,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Masculino,26,Superior incompleto,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
 Masculino,53,Superior completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Masculino,69,Fundamental incompleto,Ótima,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,78,Fundamental completo,Regular positiva,Candidato 2,65+,1045.0,até 1
-Masculino,76,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,65+,2613.0,de 2 a 3
+Masculino,76,Fundamental incompleto,Regular positiva,Não sabem,65+,2613.0,de 2 a 3
 Masculino,63,Fundamental incompleto,Regular negativa,Ninguém/Branco/Nulo,55-64,1045.0,até 1
 Masculino,50,Médio completo,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Masculino,62,Médio completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
@@ -325,7 +325,7 @@ Masculino,61,Fundamental completo,Boa,Candidato 3,55-64,2613.0,de 2 a 3
 Masculino,31,Superior incompleto,Regular negativa,Candidato 1,25-34,4180.5,de 3 a 5
 Masculino,57,Médio completo,Boa,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,60,Médio completo,Regular positiva,Candidato 2,55-64,13063.0,de 10 a 15
-Masculino,76,Médio completo,Boa,Não sabem/Não responderam,65+,1045.0,até 1
+Masculino,76,Médio completo,Boa,Não sabem,65+,1045.0,até 1
 Masculino,53,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Masculino,52,Superior incompleto,Péssima,Candidato 7,45-54,7838.0,de 5 a 10
 Masculino,18,Superior incompleto,Boa,Candidato 2,17-24,7838.0,de 5 a 10
@@ -349,7 +349,7 @@ Masculino,57,Fundamental incompleto,Boa,Candidato 12,55-64,1045.0,até 1
 Masculino,48,Fundamental completo,Boa,Candidato 2,45-54,1045.0,até 1
 Masculino,30,Médio completo,Boa,Candidato 2,25-34,2613.0,de 2 a 3
 Masculino,50,Superior completo,Boa,Candidato 5,45-54,4180.5,de 3 a 5
-Masculino,56,Fundamental completo,Ruim,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Masculino,56,Fundamental completo,Ruim,Não sabem,55-64,4180.5,de 3 a 5
 Masculino,18,Fundamental completo,Boa,Candidato 2,17-24,4180.5,de 3 a 5
 Masculino,18,Médio completo,Boa,Candidato 2,17-24,4180.5,de 3 a 5
 Masculino,35,Superior completo,Ótima,Candidato 2,35-44,7838.0,de 5 a 10
@@ -359,12 +359,12 @@ Masculino,26,Médio incompleto,Boa,Ninguém/Branco/Nulo,25-34,1045.0,até 1
 Masculino,35,Médio completo,Boa,Candidato 2,35-44,4180.5,de 3 a 5
 Masculino,33,Fundamental completo,Péssima,Ninguém/Branco/Nulo,25-34,4180.5,de 3 a 5
 Masculino,18,Fundamental incompleto,Regular negativa,Candidato 2,17-24,2613.0,de 2 a 3
-Masculino,59,Fundamental incompleto,Boa,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Masculino,59,Fundamental incompleto,Boa,Não sabem,55-64,4180.5,de 3 a 5
 Masculino,64,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Masculino,72,Fundamental incompleto,Regular positiva,Candidato 2,65+,2613.0,de 2 a 3
 Masculino,57,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,55-64,4180.5,de 3 a 5
 Masculino,23,Fundamental incompleto,Ótima,Candidato 2,17-24,1568.0,de 1 a 2
-Masculino,45,Médio completo,Regular positiva,Não sabem/Não responderam,45-54,4180.5,de 3 a 5
+Masculino,45,Médio completo,Regular positiva,Não sabem,45-54,4180.5,de 3 a 5
 Masculino,67,Fundamental incompleto,Ótima,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,32,Fundamental incompleto,Boa,Candidato 2,25-34,1045.0,até 1
 Masculino,57,Fundamental incompleto,Boa,Candidato 2,55-64,2613.0,de 2 a 3
@@ -381,7 +381,7 @@ Masculino,52,Fundamental completo,Regular negativa,Candidato 1,45-54,1568.0,de 1
 Masculino,74,Fundamental incompleto,Boa,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,65,Fundamental completo,Boa,Candidato 2,65+,1045.0,até 1
 Masculino,26,Superior incompleto,Boa,Ninguém/Branco/Nulo,25-34,7838.0,de 5 a 10
-Masculino,23,Médio completo,Ruim,Não sabem/Não responderam,17-24,7838.0,de 5 a 10
+Masculino,23,Médio completo,Ruim,Não sabem,17-24,7838.0,de 5 a 10
 Masculino,53,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,45-54,2613.0,de 2 a 3
 Masculino,53,Médio completo,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Masculino,55,Médio completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
@@ -392,20 +392,20 @@ Masculino,26,Médio completo,Boa,Candidato 9,25-34,4180.5,de 3 a 5
 Masculino,25,Fundamental incompleto,Ótima,Candidato 11,25-34,1568.0,de 1 a 2
 Masculino,35,Médio incompleto,Boa,Candidato 5,35-44,2613.0,de 2 a 3
 Masculino,19,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
-Masculino,58,Fundamental completo,Regular positiva,Não sabem/Não responderam,55-64,1045.0,até 1
+Masculino,58,Fundamental completo,Regular positiva,Não sabem,55-64,1045.0,até 1
 Masculino,64,Superior incompleto,Boa,Ninguém/Branco/Nulo,55-64,4180.5,de 3 a 5
 Masculino,77,Superior incompleto,Péssima,Ninguém/Branco/Nulo,65+,4180.5,de 3 a 5
 Masculino,49,Superior completo,Péssima,Candidato 8,45-54,20900.0,mais de 20
-Masculino,30,Médio completo,Boa,Não sabem/Não responderam,25-34,4180.5,de 3 a 5
+Masculino,30,Médio completo,Boa,Não sabem,25-34,4180.5,de 3 a 5
 Masculino,58,Superior completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
 Masculino,37,Superior completo,Regular positiva,Candidato 2,35-44,2613.0,de 2 a 3
 Masculino,64,Médio completo,Regular positiva,Ninguém/Branco/Nulo,55-64,4180.5,de 3 a 5
 Masculino,59,Médio incompleto,Regular negativa,Candidato 1,55-64,2613.0,de 2 a 3
 Masculino,18,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
-Masculino,69,Médio completo,Regular positiva,Não sabem/Não responderam,65+,4180.5,de 3 a 5
+Masculino,69,Médio completo,Regular positiva,Não sabem,65+,4180.5,de 3 a 5
 Masculino,25,Superior completo,Péssima,Ninguém/Branco/Nulo,25-34,4180.5,de 3 a 5
-Masculino,24,Médio incompleto,Não sabem/Não responderam,Não sabem/Não responderam,17-24,4180.5,de 3 a 5
-Masculino,48,Superior completo,Péssima,Não sabem/Não responderam,45-54,18288.0,de 15 a 20
+Masculino,24,Médio incompleto,Não sabem,Não sabem,17-24,4180.5,de 3 a 5
+Masculino,48,Superior completo,Péssima,Não sabem,45-54,18288.0,de 15 a 20
 Masculino,55,Fundamental incompleto,Regular negativa,Candidato 4,55-64,1568.0,de 1 a 2
 Masculino,49,Superior completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Masculino,45,Superior completo,Boa,Candidato 1,45-54,4180.5,de 3 a 5
@@ -413,12 +413,12 @@ Masculino,38,Médio completo,Boa,Candidato 2,35-44,2613.0,de 2 a 3
 Masculino,44,Superior completo,Boa,Candidato 2,65+,4180.5,de 3 a 5
 Masculino,75,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
 Masculino,53,Médio completo,Péssima,Ninguém/Branco/Nulo,45-54,7838.0,de 5 a 10
-Masculino,38,Superior completo,Não sabem/Não responderam,Não sabem/Não responderam,35-44,1045.0,até 1
-Masculino,33,Superior incompleto,Boa,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Masculino,38,Superior completo,Não sabem,Não sabem,35-44,1045.0,até 1
+Masculino,33,Superior incompleto,Boa,Não sabem,25-34,2613.0,de 2 a 3
 Masculino,61,Superior completo,Péssima,Candidato 2,55-64,7838.0,de 5 a 10
 Masculino,71,Fundamental incompleto,Boa,Candidato 2,65+,1568.0,de 1 a 2
 Masculino,62,Fundamental incompleto,Boa,Candidato 2,55-64,1568.0,de 1 a 2
-Masculino,17,Médio incompleto,Boa,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Masculino,17,Médio incompleto,Boa,Não sabem,17-24,1568.0,de 1 a 2
 Masculino,19,Médio completo,Boa,Candidato 2,17-24,7838.0,de 5 a 10
 Masculino,38,Médio completo,Péssima,Ninguém/Branco/Nulo,35-44,4180.5,de 3 a 5
 Masculino,26,Fundamental completo,Regular negativa,Candidato 13,25-34,1568.0,de 1 a 2
@@ -427,11 +427,11 @@ Masculino,41,Médio completo,Ruim,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
 Masculino,50,Fundamental incompleto,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Masculino,56,Fundamental incompleto,Regular positiva,Candidato 2,55-64,1045.0,até 1
 Masculino,23,Superior incompleto,Boa,Candidato 5,17-24,7838.0,de 5 a 10
-Masculino,50,Fundamental completo,Regular positiva,Não sabem/Não responderam,45-54,1045.0,até 1
+Masculino,50,Fundamental completo,Regular positiva,Não sabem,45-54,1045.0,até 1
 Masculino,60,Fundamental completo,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Masculino,27,Superior incompleto,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Masculino,77,Superior completo,Boa,Candidato 2,65+,1568.0,de 1 a 2
-Masculino,80,Fundamental completo,Regular negativa,Não sabem/Não responderam,65+,2613.0,de 2 a 3
+Masculino,80,Fundamental completo,Regular negativa,Não sabem,65+,2613.0,de 2 a 3
 Masculino,71,Fundamental completo,Boa,Candidato 2,65+,1045.0,até 1
 Masculino,55,Médio completo,Boa,Candidato 2,55-64,2613.0,de 2 a 3
 Masculino,56,Médio completo,Ótima,Candidato 2,55-64,4180.5,de 3 a 5
@@ -441,7 +441,7 @@ Masculino,39,Médio completo,Regular positiva,Ninguém/Branco/Nulo,35-44,1568.0,
 Masculino,30,Médio completo,Boa,Candidato 2,25-34,4180.5,de 3 a 5
 Masculino,48,Fundamental completo,Ótima,Candidato 2,45-54,1045.0,até 1
 Masculino,69,Fundamental incompleto,Péssima,Ninguém/Branco/Nulo,65+,2613.0,de 2 a 3
-Masculino,25,Superior completo,Boa,Não sabem/Não responderam,25-34,1568.0,de 1 a 2
+Masculino,25,Superior completo,Boa,Não sabem,25-34,1568.0,de 1 a 2
 Masculino,53,Fundamental incompleto,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Masculino,47,Superior completo,Boa,Ninguém/Branco/Nulo,45-54,1568.0,de 1 a 2
 Masculino,56,Fundamental incompleto,Boa,Ninguém/Branco/Nulo,55-64,1568.0,de 1 a 2
@@ -454,22 +454,22 @@ Masculino,26,Médio completo,Ruim,Ninguém/Branco/Nulo,25-34,1568.0,de 1 a 2
 Masculino,59,Médio completo,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Masculino,45,Fundamental incompleto,Boa,Candidato 2,45-54,1045.0,até 1
 Masculino,50,Superior completo,Boa,Candidato 2,45-54,1045.0,até 1
-Feminino,64,Superior completo,Ruim,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Feminino,64,Superior completo,Ruim,Não sabem,55-64,4180.5,de 3 a 5
 Feminino,58,Médio completo,Péssima,Candidato 5,55-64,4180.5,de 3 a 5
-Feminino,75,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,65+,1045.0,até 1
+Feminino,75,Fundamental incompleto,Regular positiva,Não sabem,65+,1045.0,até 1
 Feminino,32,Superior completo,Boa,Ninguém/Branco/Nulo,25-34,1045.0,até 1
 Feminino,55,Médio completo,Boa,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,60,Médio completo,Boa,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,45,Superior completo,Ótima,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,31,Superior completo,Regular positiva,Candidato 2,25-34,4180.5,de 3 a 5
 Feminino,72,Superior completo,Regular positiva,Candidato 1,65+,1568.0,de 1 a 2
-Feminino,56,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Feminino,56,Fundamental incompleto,Regular positiva,Não sabem,55-64,4180.5,de 3 a 5
 Feminino,61,Fundamental incompleto,Péssima,Ninguém/Branco/Nulo,55-64,1045.0,até 1
-Feminino,61,Fundamental incompleto,Boa,Não sabem/Não responderam,55-64,1045.0,até 1
+Feminino,61,Fundamental incompleto,Boa,Não sabem,55-64,1045.0,até 1
 Feminino,24,Superior incompleto,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,23,Médio completo,Regular positiva,Candidato 10,17-24,7838.0,de 5 a 10
-Feminino,40,Médio completo,Ruim,Não sabem/Não responderam,35-44,4180.5,de 3 a 5
-Feminino,44,Médio incompleto,Boa,Não sabem/Não responderam,65+,1568.0,de 1 a 2
+Feminino,40,Médio completo,Ruim,Não sabem,35-44,4180.5,de 3 a 5
+Feminino,44,Médio incompleto,Boa,Não sabem,65+,1568.0,de 1 a 2
 Feminino,44,Superior incompleto,Boa,Ninguém/Branco/Nulo,65+,4180.5,de 3 a 5
 Feminino,67,Fundamental incompleto,Boa,Candidato 2,65+,4180.5,de 3 a 5
 Feminino,47,Superior completo,Ótima,Candidato 2,45-54,7838.0,de 5 a 10
@@ -479,12 +479,12 @@ Feminino,35,Médio completo,Regular positiva,Candidato 10,35-44,2613.0,de 2 a 3
 Feminino,60,Fundamental completo,Ótima,Candidato 2,55-64,1045.0,até 1
 Feminino,63,Fundamental incompleto,Boa,Candidato 7,55-64,1045.0,até 1
 Feminino,40,Médio completo,Boa,Candidato 1,35-44,2613.0,de 2 a 3
-Feminino,42,Fundamental incompleto,Ótima,Não sabem/Não responderam,35-44,2613.0,de 2 a 3
+Feminino,42,Fundamental incompleto,Ótima,Não sabem,35-44,2613.0,de 2 a 3
 Feminino,25,Fundamental incompleto,Regular positiva,Candidato 2,25-34,1045.0,até 1
 Feminino,26,Médio incompleto,Boa,Candidato 14,25-34,1045.0,até 1
-Feminino,72,Fundamental incompleto,Boa,Não sabem/Não responderam,65+,1045.0,até 1
+Feminino,72,Fundamental incompleto,Boa,Não sabem,65+,1045.0,até 1
 Feminino,57,Superior completo,Boa,Candidato 2,55-64,7838.0,de 5 a 10
-Feminino,32,Superior completo,Péssima,Não sabem/Não responderam,25-34,7838.0,de 5 a 10
+Feminino,32,Superior completo,Péssima,Não sabem,25-34,7838.0,de 5 a 10
 Feminino,27,Superior completo,Boa,Candidato 2,25-34,7838.0,de 5 a 10
 Feminino,55,Superior completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
 Feminino,55,Superior completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
@@ -492,7 +492,7 @@ Feminino,46,Médio completo,Regular positiva,Candidato 2,45-54,4180.5,de 3 a 5
 Feminino,61,Fundamental incompleto,Boa,Candidato 2,55-64,1045.0,até 1
 Feminino,34,Médio incompleto,Ótima,Candidato 2,25-34,1045.0,até 1
 Feminino,43,Superior completo,Ótima,Candidato 2,35-44,2613.0,de 2 a 3
-Feminino,19,Médio completo,Regular positiva,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Feminino,19,Médio completo,Regular positiva,Não sabem,17-24,1568.0,de 1 a 2
 Feminino,37,Médio incompleto,Ótima,Candidato 2,35-44,1045.0,até 1
 Feminino,30,Médio completo,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,48,Superior completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
@@ -532,25 +532,25 @@ Feminino,38,Médio incompleto,Regular positiva,Ninguém/Branco/Nulo,35-44,1045.0
 Feminino,38,Médio completo,Boa,Candidato 5,35-44,1568.0,de 1 a 2
 Feminino,76,Fundamental incompleto,Regular positiva,Candidato 2,65+,1568.0,de 1 a 2
 Feminino,19,Médio completo,Boa,Candidato 2,17-24,2613.0,de 2 a 3
-Feminino,76,Sem instrução,Regular positiva,Não sabem/Não responderam,65+,1045.0,até 1
+Feminino,76,Sem instrução,Regular positiva,Não sabem,65+,1045.0,até 1
 Feminino,47,Superior completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,39,Fundamental completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
-Feminino,39,Superior completo,Regular positiva,Não sabem/Não responderam,35-44,13063.0,de 10 a 15
+Feminino,39,Superior completo,Regular positiva,Não sabem,35-44,13063.0,de 10 a 15
 Feminino,25,Médio completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,76,Médio completo,Regular positiva,Candidato 1,65+,1568.0,de 1 a 2
 Feminino,23,Superior completo,Regular positiva,Candidato 10,17-24,1568.0,de 1 a 2
 Feminino,36,Fundamental completo,Regular positiva,Candidato 2,35-44,4180.5,de 3 a 5
-Feminino,20,Médio completo,Boa,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Feminino,20,Médio completo,Boa,Não sabem,17-24,2613.0,de 2 a 3
 Feminino,48,Superior completo,Boa,Candidato 2,45-54,7838.0,de 5 a 10
 Feminino,40,Médio completo,Boa,Candidato 2,35-44,1045.0,até 1
 Feminino,42,Superior completo,Ótima,Candidato 2,35-44,7838.0,de 5 a 10
 Feminino,20,Superior incompleto,Regular positiva,Candidato 5,17-24,7838.0,de 5 a 10
 Feminino,54,Superior completo,Péssima,Candidato 8,65+,7838.0,de 5 a 10
 Feminino,42,Médio incompleto,Boa,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
-Feminino,50,Médio completo,Péssima,Não sabem/Não responderam,45-54,1568.0,de 1 a 2
+Feminino,50,Médio completo,Péssima,Não sabem,45-54,1568.0,de 1 a 2
 Feminino,57,Médio completo,Boa,Candidato 2,55-64,1045.0,até 1
 Feminino,36,Médio completo,Boa,Candidato 2,35-44,1045.0,até 1
-Feminino,62,Superior incompleto,Regular negativa,Não sabem/Não responderam,55-64,1568.0,de 1 a 2
+Feminino,62,Superior incompleto,Regular negativa,Não sabem,55-64,1568.0,de 1 a 2
 Feminino,48,Médio completo,Boa,Candidato 10,45-54,4180.5,de 3 a 5
 Feminino,53,Médio incompleto,Boa,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,30,Superior completo,Boa,Candidato 2,25-34,2613.0,de 2 a 3
@@ -558,22 +558,22 @@ Feminino,60,Superior completo,Péssima,Candidato 10,55-64,13063.0,de 10 a 15
 Feminino,38,Superior completo,Boa,Candidato 2,35-44,1045.0,até 1
 Feminino,61,Médio completo,Regular positiva,Ninguém/Branco/Nulo,55-64,1045.0,até 1
 Feminino,68,Superior completo,Regular positiva,Ninguém/Branco/Nulo,65+,13063.0,de 10 a 15
-Feminino,61,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,55-64,1045.0,até 1
+Feminino,61,Fundamental incompleto,Regular positiva,Não sabem,55-64,1045.0,até 1
 Feminino,18,Médio incompleto,Boa,Ninguém/Branco/Nulo,17-24,1045.0,até 1
 Feminino,26,Médio completo,Regular negativa,Ninguém/Branco/Nulo,25-34,1045.0,até 1
-Feminino,52,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,45-54,1045.0,até 1
+Feminino,52,Fundamental incompleto,Regular positiva,Não sabem,45-54,1045.0,até 1
 Feminino,60,Fundamental incompleto,Regular positiva,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,32,Médio completo,Boa,Ninguém/Branco/Nulo,25-34,1045.0,até 1
 Feminino,20,Médio incompleto,Boa,Candidato 2,17-24,2613.0,de 2 a 3
-Feminino,37,Médio completo,Ruim,Não sabem/Não responderam,35-44,1045.0,até 1
+Feminino,37,Médio completo,Ruim,Não sabem,35-44,1045.0,até 1
 Feminino,34,Superior incompleto,Ótima,Candidato 10,25-34,1045.0,até 1
 Feminino,67,Fundamental incompleto,Boa,Candidato 2,65+,1045.0,até 1
 Feminino,17,Médio incompleto,Boa,Candidato 2,17-24,1045.0,até 1
 Feminino,27,Superior incompleto,Ótima,Candidato 2,25-34,2613.0,de 2 a 3
-Feminino,31,Fundamental incompleto,Boa,Não sabem/Não responderam,25-34,1045.0,até 1
+Feminino,31,Fundamental incompleto,Boa,Não sabem,25-34,1045.0,até 1
 Feminino,37,Fundamental incompleto,Ótima,Candidato 2,35-44,1045.0,até 1
 Feminino,84,Médio incompleto,Boa,Candidato 2,65+,2613.0,de 2 a 3
-Feminino,52,Fundamental completo,Ótima,Não sabem/Não responderam,45-54,1568.0,de 1 a 2
+Feminino,52,Fundamental completo,Ótima,Não sabem,45-54,1568.0,de 1 a 2
 Feminino,19,Superior incompleto,Ótima,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,24,Superior incompleto,Boa,Candidato 2,17-24,4180.5,de 3 a 5
 Feminino,27,Fundamental completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
@@ -588,12 +588,12 @@ Feminino,22,Fundamental completo,Boa,Ninguém/Branco/Nulo,17-24,4180.5,de 3 a 5
 Feminino,40,Médio incompleto,Ótima,Candidato 2,35-44,2613.0,de 2 a 3
 Feminino,51,Superior completo,Boa,Candidato 2,45-54,13063.0,de 10 a 15
 Feminino,22,Médio incompleto,Ótima,Candidato 2,17-24,4180.5,de 3 a 5
-Feminino,23,Médio incompleto,Não sabem/Não responderam,Ninguém/Branco/Nulo,17-24,1568.0,de 1 a 2
+Feminino,23,Médio incompleto,Não sabem,Ninguém/Branco/Nulo,17-24,1568.0,de 1 a 2
 Feminino,78,Fundamental completo,Ótima,Ninguém/Branco/Nulo,65+,4180.5,de 3 a 5
 Feminino,21,Médio incompleto,Regular positiva,Candidato 14,17-24,2613.0,de 2 a 3
 Feminino,65,Médio completo,Ótima,Ninguém/Branco/Nulo,65+,2613.0,de 2 a 3
 Feminino,30,Médio completo,Regular negativa,Candidato 6,25-34,1045.0,até 1
-Feminino,50,Fundamental completo,Péssima,Não sabem/Não responderam,45-54,1045.0,até 1
+Feminino,50,Fundamental completo,Péssima,Não sabem,45-54,1045.0,até 1
 Feminino,50,Médio incompleto,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,40,Fundamental completo,Regular positiva,Candidato 2,35-44,4180.5,de 3 a 5
 Feminino,38,Fundamental completo,Boa,Candidato 2,35-44,2613.0,de 2 a 3
@@ -612,13 +612,13 @@ Feminino,19,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,60,Médio completo,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,51,Superior completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,60,Médio completo,Boa,Candidato 2,55-64,7838.0,de 5 a 10
-Feminino,75,Médio completo,Não sabem/Não responderam,Não sabem/Não responderam,65+,1045.0,até 1
+Feminino,75,Médio completo,Não sabem,Não sabem,65+,1045.0,até 1
 Feminino,33,Médio completo,Regular positiva,Candidato 10,25-34,1568.0,de 1 a 2
 Feminino,51,Superior completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Feminino,70,Médio completo,Regular positiva,Ninguém/Branco/Nulo,65+,13063.0,de 10 a 15
-Feminino,33,Superior completo,Péssima,Não sabem/Não responderam,25-34,4180.5,de 3 a 5
+Feminino,33,Superior completo,Péssima,Não sabem,25-34,4180.5,de 3 a 5
 Feminino,42,Médio completo,Regular positiva,Ninguém/Branco/Nulo,35-44,4180.5,de 3 a 5
-Feminino,54,Superior completo,Ótima,Não sabem/Não responderam,65+,4180.5,de 3 a 5
+Feminino,54,Superior completo,Ótima,Não sabem,65+,4180.5,de 3 a 5
 Feminino,64,Médio completo,Regular positiva,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,58,Médio incompleto,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,37,Médio completo,Ótima,Candidato 2,35-44,1045.0,até 1
@@ -629,46 +629,46 @@ Feminino,61,Médio completo,Boa,Candidato 2,55-64,20900.0,mais de 20
 Feminino,68,Médio completo,Regular positiva,Candidato 2,65+,1045.0,até 1
 Feminino,20,Superior incompleto,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,39,Médio completo,Boa,Ninguém/Branco/Nulo,35-44,1045.0,até 1
-Feminino,70,Superior completo,Regular positiva,Não sabem/Não responderam,65+,1568.0,de 1 a 2
+Feminino,70,Superior completo,Regular positiva,Não sabem,65+,1568.0,de 1 a 2
 Feminino,30,Superior incompleto,Péssima,Ninguém/Branco/Nulo,25-34,2613.0,de 2 a 3
 Feminino,28,Superior incompleto,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,53,Médio completo,Ruim,Candidato 11,45-54,1568.0,de 1 a 2
-Feminino,48,Fundamental incompleto,Péssima,Não sabem/Não responderam,45-54,1045.0,até 1
+Feminino,48,Fundamental incompleto,Péssima,Não sabem,45-54,1045.0,até 1
 Feminino,68,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
-Feminino,19,Médio completo,Regular negativa,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Feminino,19,Médio completo,Regular negativa,Não sabem,17-24,1568.0,de 1 a 2
 Feminino,35,Fundamental incompleto,Regular positiva,Candidato 2,35-44,1045.0,até 1
 Feminino,37,Médio completo,Boa,Candidato 2,35-44,1045.0,até 1
 Feminino,19,Superior incompleto,Regular positiva,Candidato 6,17-24,2613.0,de 2 a 3
 Feminino,56,Médio completo,Boa,Candidato 3,55-64,2613.0,de 2 a 3
 Feminino,50,Fundamental completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
-Feminino,37,Médio completo,Regular positiva,Não sabem/Não responderam,35-44,1045.0,até 1
+Feminino,37,Médio completo,Regular positiva,Não sabem,35-44,1045.0,até 1
 Feminino,49,Médio completo,Péssima,Ninguém/Branco/Nulo,45-54,4180.5,de 3 a 5
 Feminino,20,Superior incompleto,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,59,Superior completo,Boa,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,32,Superior completo,Péssima,Candidato 8,25-34,7838.0,de 5 a 10
-Feminino,46,Médio completo,Péssima,Não sabem/Não responderam,45-54,13063.0,de 10 a 15
+Feminino,46,Médio completo,Péssima,Não sabem,45-54,13063.0,de 10 a 15
 Feminino,59,Médio completo,Regular positiva,Candidato 8,55-64,2613.0,de 2 a 3
 Feminino,38,Superior completo,Regular positiva,Candidato 2,35-44,13063.0,de 10 a 15
 Feminino,24,Médio incompleto,Boa,Candidato 2,17-24,1045.0,até 1
 Feminino,28,Superior completo,Regular positiva,Candidato 1,25-34,2613.0,de 2 a 3
 Feminino,53,Fundamental completo,Regular positiva,Candidato 9,45-54,1045.0,até 1
-Feminino,36,Superior incompleto,Péssima,Não sabem/Não responderam,35-44,7838.0,de 5 a 10
+Feminino,36,Superior incompleto,Péssima,Não sabem,35-44,7838.0,de 5 a 10
 Feminino,52,Médio completo,Regular negativa,Candidato 8,45-54,2613.0,de 2 a 3
-Feminino,53,Médio incompleto,Péssima,Não sabem/Não responderam,45-54,4180.5,de 3 a 5
-Feminino,40,Superior incompleto,Boa,Não sabem/Não responderam,35-44,7838.0,de 5 a 10
-Feminino,21,Médio completo,Boa,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
-Feminino,20,Médio completo,Regular positiva,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
-Feminino,48,Médio completo,Regular positiva,Não sabem/Não responderam,45-54,2613.0,de 2 a 3
+Feminino,53,Médio incompleto,Péssima,Não sabem,45-54,4180.5,de 3 a 5
+Feminino,40,Superior incompleto,Boa,Não sabem,35-44,7838.0,de 5 a 10
+Feminino,21,Médio completo,Boa,Não sabem,17-24,1568.0,de 1 a 2
+Feminino,20,Médio completo,Regular positiva,Não sabem,17-24,1568.0,de 1 a 2
+Feminino,48,Médio completo,Regular positiva,Não sabem,45-54,2613.0,de 2 a 3
 Feminino,42,Superior incompleto,Regular positiva,Ninguém/Branco/Nulo,35-44,1045.0,até 1
 Feminino,75,Fundamental completo,Boa,Candidato 2,65+,7838.0,de 5 a 10
 Feminino,38,Fundamental incompleto,Ótima,Candidato 10,35-44,1045.0,até 1
-Feminino,73,Médio completo,Boa,Não sabem/Não responderam,65+,2613.0,de 2 a 3
-Feminino,60,Médio completo,Ruim,Não sabem/Não responderam,55-64,7838.0,de 5 a 10
+Feminino,73,Médio completo,Boa,Não sabem,65+,2613.0,de 2 a 3
+Feminino,60,Médio completo,Ruim,Não sabem,55-64,7838.0,de 5 a 10
 Feminino,68,Médio incompleto,Ruim,Candidato 8,65+,1568.0,de 1 a 2
 Feminino,33,Médio incompleto,Boa,Candidato 10,25-34,1568.0,de 1 a 2
 Feminino,18,Médio completo,Regular positiva,Candidato 7,17-24,1568.0,de 1 a 2
 Feminino,49,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
-Feminino,18,Superior incompleto,Regular positiva,Não sabem/Não responderam,17-24,1045.0,até 1
+Feminino,18,Superior incompleto,Regular positiva,Não sabem,17-24,1045.0,até 1
 Feminino,34,Médio incompleto,Boa,Candidato 9,25-34,1045.0,até 1
 Feminino,45,Fundamental incompleto,Boa,Candidato 2,45-54,1045.0,até 1
 Feminino,27,Superior completo,Boa,Candidato 2,25-34,1045.0,até 1
@@ -697,7 +697,7 @@ Feminino,40,Médio completo,Ótima,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,26,Médio completo,Boa,Candidato 2,25-34,2613.0,de 2 a 3
 Feminino,33,Superior incompleto,Boa,Candidato 2,25-34,4180.5,de 3 a 5
 Feminino,25,Médio completo,Regular positiva,Candidato 2,25-34,2613.0,de 2 a 3
-Feminino,50,Superior completo,Boa,Não sabem/Não responderam,45-54,7838.0,de 5 a 10
+Feminino,50,Superior completo,Boa,Não sabem,45-54,7838.0,de 5 a 10
 Feminino,43,Médio completo,Boa,Candidato 2,35-44,7838.0,de 5 a 10
 Feminino,38,Médio completo,Boa,Candidato 6,35-44,1568.0,de 1 a 2
 Feminino,27,Médio completo,Péssima,Ninguém/Branco/Nulo,25-34,1568.0,de 1 a 2
@@ -708,25 +708,25 @@ Feminino,37,Médio completo,Ruim,Ninguém/Branco/Nulo,35-44,1045.0,até 1
 Feminino,64,Médio completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
 Feminino,52,Médio completo,Boa,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,49,Médio completo,Boa,Candidato 2,45-54,7838.0,de 5 a 10
-Feminino,74,Fundamental incompleto,Ruim,Não sabem/Não responderam,65+,2613.0,de 2 a 3
-Feminino,19,Médio completo,Boa,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
-Feminino,21,Superior incompleto,Não sabem/Não responderam,Candidato 2,17-24,4180.5,de 3 a 5
-Feminino,54,Superior completo,Boa,Não sabem/Não responderam,65+,1568.0,de 1 a 2
+Feminino,74,Fundamental incompleto,Ruim,Não sabem,65+,2613.0,de 2 a 3
+Feminino,19,Médio completo,Boa,Não sabem,17-24,2613.0,de 2 a 3
+Feminino,21,Superior incompleto,Não sabem,Candidato 2,17-24,4180.5,de 3 a 5
+Feminino,54,Superior completo,Boa,Não sabem,65+,1568.0,de 1 a 2
 Feminino,30,Médio completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,52,Médio completo,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,58,Médio incompleto,Ótima,Candidato 2,55-64,1045.0,até 1
-Feminino,64,Fundamental incompleto,Boa,Não sabem/Não responderam,55-64,1045.0,até 1
+Feminino,64,Fundamental incompleto,Boa,Não sabem,55-64,1045.0,até 1
 Feminino,70,Fundamental incompleto,Regular positiva,Candidato 2,65+,1045.0,até 1
-Feminino,65,Médio completo,Regular positiva,Não sabem/Não responderam,65+,4180.5,de 3 a 5
+Feminino,65,Médio completo,Regular positiva,Não sabem,65+,4180.5,de 3 a 5
 Feminino,28,Médio completo,Ótima,Candidato 2,25-34,1045.0,até 1
-Feminino,64,Sem instrução,Boa,Não sabem/Não responderam,55-64,1568.0,de 1 a 2
+Feminino,64,Sem instrução,Boa,Não sabem,55-64,1568.0,de 1 a 2
 Feminino,42,Médio completo,Ótima,Candidato 2,35-44,2613.0,de 2 a 3
 Feminino,49,Médio incompleto,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,37,Superior completo,Boa,Candidato 3,35-44,1045.0,até 1
 Feminino,62,Sem instrução,Ótima,Candidato 2,55-64,1045.0,até 1
 Feminino,42,Médio completo,Ótima,Candidato 2,35-44,1045.0,até 1
 Feminino,42,Médio completo,Boa,Candidato 2,35-44,4180.5,de 3 a 5
-Feminino,36,Médio incompleto,Não sabem/Não responderam,Não sabem/Não responderam,35-44,1568.0,de 1 a 2
+Feminino,36,Médio incompleto,Não sabem,Não sabem,35-44,1568.0,de 1 a 2
 Feminino,52,Fundamental incompleto,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,33,Médio completo,Ótima,Candidato 2,25-34,1045.0,até 1
 Feminino,32,Superior completo,Ótima,Candidato 2,25-34,2613.0,de 2 a 3
@@ -741,7 +741,7 @@ Feminino,52,Fundamental incompleto,Ótima,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,45,Médio incompleto,Boa,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,62,Fundamental incompleto,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,26,Médio completo,Ótima,Candidato 2,25-34,2613.0,de 2 a 3
-Feminino,39,Superior completo,Boa,Não sabem/Não responderam,35-44,18288.0,de 15 a 20
+Feminino,39,Superior completo,Boa,Não sabem,35-44,18288.0,de 15 a 20
 Feminino,17,Médio incompleto,Ótima,Candidato 2,17-24,13063.0,de 10 a 15
 Feminino,30,Superior completo,Boa,Candidato 2,25-34,18288.0,de 15 a 20
 Feminino,19,Médio completo,Boa,Candidato 2,17-24,18288.0,de 15 a 20
@@ -756,37 +756,37 @@ Feminino,62,Superior completo,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,59,Fundamental completo,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,36,Superior completo,Boa,Candidato 2,35-44,2613.0,de 2 a 3
 Feminino,18,Médio completo,Boa,Candidato 2,17-24,4180.5,de 3 a 5
-Feminino,19,Superior incompleto,Regular positiva,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
-Feminino,43,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,35-44,1045.0,até 1
+Feminino,19,Superior incompleto,Regular positiva,Não sabem,17-24,2613.0,de 2 a 3
+Feminino,43,Fundamental incompleto,Regular positiva,Não sabem,35-44,1045.0,até 1
 Feminino,63,Médio completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
-Feminino,51,Superior completo,Boa,Não sabem/Não responderam,45-54,1568.0,de 1 a 2
+Feminino,51,Superior completo,Boa,Não sabem,45-54,1568.0,de 1 a 2
 Feminino,54,Fundamental incompleto,Boa,Candidato 2,65+,1045.0,até 1
 Feminino,48,Fundamental incompleto,Ótima,Candidato 2,45-54,2613.0,de 2 a 3
 Feminino,40,Médio incompleto,Boa,Candidato 2,35-44,2613.0,de 2 a 3
-Feminino,60,Médio completo,Boa,Não sabem/Não responderam,55-64,4180.5,de 3 a 5
+Feminino,60,Médio completo,Boa,Não sabem,55-64,4180.5,de 3 a 5
 Feminino,20,Médio completo,Ótima,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,46,Fundamental completo,Boa,Ninguém/Branco/Nulo,45-54,1568.0,de 1 a 2
 Feminino,65,Fundamental completo,Ótima,Ninguém/Branco/Nulo,65+,1568.0,de 1 a 2
 Feminino,58,Médio completo,Boa,Candidato 4,55-64,2613.0,de 2 a 3
 Feminino,20,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
-Feminino,43,Sem instrução,Boa,Não sabem/Não responderam,35-44,1045.0,até 1
+Feminino,43,Sem instrução,Boa,Não sabem,35-44,1045.0,até 1
 Feminino,48,Médio completo,Ótima,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,76,Sem instrução,Boa,Candidato 2,65+,1045.0,até 1
-Feminino,64,Médio completo,Não sabem/Não responderam,Ninguém/Branco/Nulo,55-64,1045.0,até 1
+Feminino,64,Médio completo,Não sabem,Ninguém/Branco/Nulo,55-64,1045.0,até 1
 Feminino,59,Médio completo,Boa,Candidato 2,55-64,1045.0,até 1
 Feminino,56,Superior incompleto,Regular positiva,Ninguém/Branco/Nulo,55-64,1568.0,de 1 a 2
 Feminino,50,Médio completo,Ruim,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,61,Fundamental completo,Regular positiva,Candidato 2,55-64,1045.0,até 1
-Feminino,35,Superior completo,Ruim,Não sabem/Não responderam,35-44,4180.5,de 3 a 5
+Feminino,35,Superior completo,Ruim,Não sabem,35-44,4180.5,de 3 a 5
 Feminino,58,Médio completo,Ruim,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
 Feminino,28,Médio completo,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,40,Médio completo,Boa,Candidato 3,35-44,4180.5,de 3 a 5
 Feminino,56,Fundamental incompleto,Regular positiva,Candidato 4,55-64,1568.0,de 1 a 2
 Feminino,65,Sem instrução,Boa,Candidato 2,65+,2613.0,de 2 a 3
-Feminino,46,Superior completo,Boa,Não sabem/Não responderam,45-54,4180.5,de 3 a 5
+Feminino,46,Superior completo,Boa,Não sabem,45-54,4180.5,de 3 a 5
 Feminino,64,Fundamental incompleto,Boa,Candidato 2,55-64,1045.0,até 1
 Feminino,72,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
-Feminino,75,Sem instrução,Não sabem/Não responderam,Não sabem/Não responderam,65+,1045.0,até 1
+Feminino,75,Sem instrução,Não sabem,Não sabem,65+,1045.0,até 1
 Feminino,20,Fundamental completo,Boa,Candidato 8,17-24,1045.0,até 1
 Feminino,51,Fundamental incompleto,Boa,Candidato 2,45-54,1568.0,de 1 a 2
 Feminino,80,Sem instrução,Boa,Ninguém/Branco/Nulo,65+,1045.0,até 1
@@ -794,7 +794,7 @@ Feminino,33,Fundamental completo,Ótima,Candidato 9,25-34,1045.0,até 1
 Feminino,43,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,77,Sem instrução,Boa,Candidato 10,65+,1045.0,até 1
 Feminino,61,Médio completo,Boa,Ninguém/Branco/Nulo,55-64,2613.0,de 2 a 3
-Feminino,27,Médio completo,Boa,Não sabem/Não responderam,25-34,1045.0,até 1
+Feminino,27,Médio completo,Boa,Não sabem,25-34,1045.0,até 1
 Feminino,65,Fundamental incompleto,Regular negativa,Candidato 3,65+,1568.0,de 1 a 2
 Feminino,42,Médio completo,Regular positiva,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,58,Fundamental incompleto,Regular positiva,Candidato 10,55-64,1045.0,até 1
@@ -804,7 +804,7 @@ Feminino,61,Superior completo,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,35,Fundamental completo,Ótima,Candidato 2,35-44,4180.5,de 3 a 5
 Feminino,58,Médio completo,Boa,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,30,Médio completo,Regular negativa,Candidato 5,25-34,4180.5,de 3 a 5
-Feminino,50,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,45-54,2613.0,de 2 a 3
+Feminino,50,Fundamental incompleto,Regular positiva,Não sabem,45-54,2613.0,de 2 a 3
 Feminino,48,Superior completo,Boa,Candidato 12,45-54,7838.0,de 5 a 10
 Feminino,54,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
 Feminino,59,Médio completo,Ótima,Candidato 2,55-64,4180.5,de 3 a 5
@@ -822,16 +822,16 @@ Feminino,60,Médio completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,37,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,33,Médio completo,Péssima,Ninguém/Branco/Nulo,25-34,2613.0,de 2 a 3
 Feminino,25,Superior incompleto,Ótima,Candidato 2,25-34,4180.5,de 3 a 5
-Feminino,69,Fundamental incompleto,Péssima,Não sabem/Não responderam,65+,4180.5,de 3 a 5
+Feminino,69,Fundamental incompleto,Péssima,Não sabem,65+,4180.5,de 3 a 5
 Feminino,34,Médio completo,Boa,Candidato 2,25-34,2613.0,de 2 a 3
 Feminino,36,Fundamental incompleto,Ótima,Candidato 2,35-44,2613.0,de 2 a 3
 Feminino,37,Superior incompleto,Regular negativa,Candidato 5,35-44,1568.0,de 1 a 2
-Feminino,42,Superior incompleto,Regular negativa,Não sabem/Não responderam,35-44,4180.5,de 3 a 5
+Feminino,42,Superior incompleto,Regular negativa,Não sabem,35-44,4180.5,de 3 a 5
 Feminino,35,Médio completo,Péssima,Ninguém/Branco/Nulo,35-44,1045.0,até 1
 Feminino,29,Médio incompleto,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,44,Médio incompleto,Boa,Candidato 2,65+,4180.5,de 3 a 5
 Feminino,59,Fundamental incompleto,Boa,Candidato 8,55-64,2613.0,de 2 a 3
-Feminino,24,Fundamental completo,Boa,Não sabem/Não responderam,17-24,1045.0,até 1
+Feminino,24,Fundamental completo,Boa,Não sabem,17-24,1045.0,até 1
 Feminino,34,Médio completo,Boa,Candidato 2,25-34,1045.0,até 1
 Feminino,19,Superior incompleto,Boa,Candidato 2,17-24,4180.5,de 3 a 5
 Feminino,34,Superior incompleto,Ótima,Candidato 12,25-34,2613.0,de 2 a 3
@@ -844,7 +844,7 @@ Feminino,27,Superior incompleto,Regular positiva,Ninguém/Branco/Nulo,25-34,1568
 Feminino,63,Médio completo,Ótima,Candidato 2,55-64,1045.0,até 1
 Feminino,61,Fundamental incompleto,Boa,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,67,Fundamental incompleto,Ótima,Candidato 2,65+,1568.0,de 1 a 2
-Feminino,42,Superior completo,Regular positiva,Não sabem/Não responderam,35-44,4180.5,de 3 a 5
+Feminino,42,Superior completo,Regular positiva,Não sabem,35-44,4180.5,de 3 a 5
 Feminino,42,Superior completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,60,Médio completo,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,55,Médio completo,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
@@ -857,13 +857,13 @@ Feminino,28,Médio incompleto,Ótima,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,19,Médio completo,Regular negativa,Ninguém/Branco/Nulo,17-24,2613.0,de 2 a 3
 Feminino,22,Superior incompleto,Boa,Ninguém/Branco/Nulo,17-24,1568.0,de 1 a 2
 Feminino,74,Fundamental completo,Ótima,Candidato 2,65+,1568.0,de 1 a 2
-Feminino,26,Médio incompleto,Péssima,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Feminino,26,Médio incompleto,Péssima,Não sabem,25-34,2613.0,de 2 a 3
 Feminino,39,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,40,Médio completo,Regular positiva,Ninguém/Branco/Nulo,35-44,2613.0,de 2 a 3
 Feminino,61,Médio completo,Boa,Candidato 2,55-64,4180.5,de 3 a 5
 Feminino,42,Médio incompleto,Ótima,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,60,Superior incompleto,Péssima,Candidato 8,55-64,1045.0,até 1
-Feminino,20,Superior incompleto,Regular positiva,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Feminino,20,Superior incompleto,Regular positiva,Não sabem,17-24,2613.0,de 2 a 3
 Feminino,36,Superior completo,Ruim,Ninguém/Branco/Nulo,35-44,1568.0,de 1 a 2
 Feminino,41,Médio completo,Ruim,Candidato 5,35-44,1045.0,até 1
 Feminino,37,Médio completo,Ótima,Candidato 2,35-44,1045.0,até 1
@@ -884,7 +884,7 @@ Feminino,38,Fundamental completo,Regular positiva,Candidato 2,35-44,1045.0,até 
 Feminino,27,Médio incompleto,Regular positiva,Ninguém/Branco/Nulo,25-34,2613.0,de 2 a 3
 Feminino,19,Médio incompleto,Boa,Candidato 2,17-24,2613.0,de 2 a 3
 Feminino,25,Superior incompleto,Ótima,Candidato 2,25-34,1568.0,de 1 a 2
-Feminino,26,Médio completo,Não sabem/Não responderam,Ninguém/Branco/Nulo,25-34,1568.0,de 1 a 2
+Feminino,26,Médio completo,Não sabem,Ninguém/Branco/Nulo,25-34,1568.0,de 1 a 2
 Feminino,30,Médio completo,Regular positiva,Candidato 10,25-34,1568.0,de 1 a 2
 Feminino,22,Médio completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,52,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
@@ -897,14 +897,14 @@ Feminino,53,Superior completo,Regular negativa,Ninguém/Branco/Nulo,45-54,1568.0
 Feminino,56,Fundamental incompleto,Boa,Candidato 2,55-64,1045.0,até 1
 Feminino,42,Superior completo,Boa,Candidato 2,35-44,7838.0,de 5 a 10
 Feminino,31,Médio completo,Regular positiva,Candidato 2,25-34,1045.0,até 1
-Feminino,43,Médio completo,Boa,Não sabem/Não responderam,35-44,1045.0,até 1
-Feminino,63,Fundamental completo,Ruim,Não sabem/Não responderam,55-64,1045.0,até 1
+Feminino,43,Médio completo,Boa,Não sabem,35-44,1045.0,até 1
+Feminino,63,Fundamental completo,Ruim,Não sabem,55-64,1045.0,até 1
 Feminino,61,Fundamental completo,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,31,Superior completo,Boa,Candidato 2,25-34,7838.0,de 5 a 10
 Feminino,43,Superior completo,Ótima,Candidato 2,35-44,2613.0,de 2 a 3
 Feminino,49,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
-Feminino,50,Superior completo,Boa,Não sabem/Não responderam,45-54,7838.0,de 5 a 10
-Feminino,69,Fundamental incompleto,Boa,Não sabem/Não responderam,65+,1568.0,de 1 a 2
+Feminino,50,Superior completo,Boa,Não sabem,45-54,7838.0,de 5 a 10
+Feminino,69,Fundamental incompleto,Boa,Não sabem,65+,1568.0,de 1 a 2
 Feminino,36,Médio completo,Ótima,Candidato 2,35-44,4180.5,de 3 a 5
 Feminino,51,Superior completo,Ótima,Candidato 8,45-54,2613.0,de 2 a 3
 Feminino,24,Médio incompleto,Boa,Candidato 10,17-24,1568.0,de 1 a 2
@@ -920,27 +920,27 @@ Feminino,56,Fundamental incompleto,Ótima,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,23,Superior incompleto,Ótima,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,52,Médio completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
 Feminino,22,Superior incompleto,Regular positiva,Ninguém/Branco/Nulo,17-24,2613.0,de 2 a 3
-Feminino,30,Superior completo,Ruim,Não sabem/Não responderam,25-34,2613.0,de 2 a 3
+Feminino,30,Superior completo,Ruim,Não sabem,25-34,2613.0,de 2 a 3
 Feminino,66,Superior completo,Boa,Candidato 2,65+,4180.5,de 3 a 5
-Feminino,70,Fundamental incompleto,Regular positiva,Não sabem/Não responderam,65+,2613.0,de 2 a 3
+Feminino,70,Fundamental incompleto,Regular positiva,Não sabem,65+,2613.0,de 2 a 3
 Feminino,27,Médio incompleto,Boa,Candidato 2,25-34,2613.0,de 2 a 3
-Feminino,24,Superior incompleto,Regular positiva,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Feminino,24,Superior incompleto,Regular positiva,Não sabem,17-24,2613.0,de 2 a 3
 Feminino,40,Superior completo,Regular positiva,Candidato 5,35-44,2613.0,de 2 a 3
 Feminino,28,Superior incompleto,Boa,Candidato 2,25-34,1045.0,até 1
 Feminino,40,Fundamental incompleto,Ótima,Candidato 2,35-44,1045.0,até 1
 Feminino,35,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,38,Médio completo,Boa,Candidato 2,35-44,1568.0,de 1 a 2
-Feminino,44,Médio completo,Boa,Não sabem/Não responderam,65+,2613.0,de 2 a 3
+Feminino,44,Médio completo,Boa,Não sabem,65+,2613.0,de 2 a 3
 Feminino,62,Médio completo,Péssima,Candidato 8,55-64,4180.5,de 3 a 5
 Feminino,65,Fundamental incompleto,Ótima,Candidato 2,65+,1045.0,até 1
 Feminino,31,Superior completo,Regular positiva,Ninguém/Branco/Nulo,25-34,2613.0,de 2 a 3
 Feminino,60,Médio completo,Boa,Candidato 2,55-64,13063.0,de 10 a 15
 Feminino,72,Fundamental incompleto,Ótima,Candidato 2,65+,2613.0,de 2 a 3
 Feminino,47,Superior completo,Ótima,Candidato 2,45-54,4180.5,de 3 a 5
-Feminino,39,Fundamental incompleto,Não sabem/Não responderam,Não sabem/Não responderam,35-44,1045.0,até 1
+Feminino,39,Fundamental incompleto,Não sabem,Não sabem,35-44,1045.0,até 1
 Feminino,34,Médio completo,Regular positiva,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,52,Fundamental incompleto,Regular positiva,Ninguém/Branco/Nulo,45-54,1045.0,até 1
-Feminino,28,Superior completo,Ruim,Não sabem/Não responderam,25-34,7838.0,de 5 a 10
+Feminino,28,Superior completo,Ruim,Não sabem,25-34,7838.0,de 5 a 10
 Feminino,60,Fundamental incompleto,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,57,Superior completo,Ótima,Candidato 2,55-64,18288.0,de 15 a 20
 Feminino,55,Fundamental completo,Boa,Candidato 2,55-64,1568.0,de 1 a 2
@@ -954,15 +954,15 @@ Feminino,60,Médio incompleto,Boa,Candidato 2,55-64,1568.0,de 1 a 2
 Feminino,41,Médio completo,Ótima,Candidato 2,35-44,1568.0,de 1 a 2
 Feminino,32,Médio completo,Boa,Candidato 2,25-34,1568.0,de 1 a 2
 Feminino,27,Superior incompleto,Boa,Candidato 5,25-34,4180.5,de 3 a 5
-Feminino,63,Fundamental incompleto,Ótima,Não sabem/Não responderam,55-64,1045.0,até 1
+Feminino,63,Fundamental incompleto,Ótima,Não sabem,55-64,1045.0,até 1
 Feminino,33,Médio incompleto,Boa,Candidato 6,25-34,4180.5,de 3 a 5
 Feminino,49,Fundamental incompleto,Boa,Candidato 2,45-54,2613.0,de 2 a 3
-Feminino,18,Médio incompleto,Boa,Não sabem/Não responderam,17-24,1045.0,até 1
+Feminino,18,Médio incompleto,Boa,Não sabem,17-24,1045.0,até 1
 Feminino,21,Superior completo,Boa,Candidato 2,17-24,1568.0,de 1 a 2
 Feminino,30,Médio completo,Boa,Candidato 2,25-34,7838.0,de 5 a 10
 Feminino,57,Fundamental incompleto,Boa,Candidato 2,55-64,4180.5,de 3 a 5
 Feminino,46,Superior completo,Boa,Candidato 2,45-54,4180.5,de 3 a 5
-Feminino,64,Fundamental incompleto,Regular negativa,Não sabem/Não responderam,55-64,2613.0,de 2 a 3
+Feminino,64,Fundamental incompleto,Regular negativa,Não sabem,55-64,2613.0,de 2 a 3
 Feminino,65,Fundamental incompleto,Boa,Candidato 2,65+,4180.5,de 3 a 5
 Feminino,50,Superior completo,Regular negativa,Ninguém/Branco/Nulo,45-54,4180.5,de 3 a 5
 Feminino,51,Superior incompleto,Boa,Candidato 2,45-54,7838.0,de 5 a 10
@@ -974,28 +974,28 @@ Feminino,60,Superior completo,Boa,Ninguém/Branco/Nulo,55-64,13063.0,de 10 a 15
 Feminino,60,Superior incompleto,Péssima,Candidato 9,55-64,1568.0,de 1 a 2
 Feminino,60,Superior completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,68,Sem instrução,Boa,Candidato 2,65+,1045.0,até 1
-Feminino,53,Médio completo,Regular positiva,Não sabem/Não responderam,45-54,1045.0,até 1
+Feminino,53,Médio completo,Regular positiva,Não sabem,45-54,1045.0,até 1
 Feminino,73,Fundamental incompleto,Regular positiva,Candidato 3,65+,1045.0,até 1
-Feminino,45,Médio completo,Não sabem/Não responderam,Ninguém/Branco/Nulo,45-54,1045.0,até 1
+Feminino,45,Médio completo,Não sabem,Ninguém/Branco/Nulo,45-54,1045.0,até 1
 Feminino,63,Superior completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
 Feminino,60,Superior completo,Ótima,Candidato 2,55-64,7838.0,de 5 a 10
-Feminino,46,Superior completo,Regular negativa,Não sabem/Não responderam,45-54,4180.5,de 3 a 5
+Feminino,46,Superior completo,Regular negativa,Não sabem,45-54,4180.5,de 3 a 5
 Feminino,27,Superior completo,Ótima,Candidato 2,25-34,4180.5,de 3 a 5
 Feminino,60,Médio completo,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
 Feminino,26,Médio completo,Ótima,Candidato 2,25-34,2613.0,de 2 a 3
 Feminino,33,Superior completo,Ótima,Candidato 2,25-34,7838.0,de 5 a 10
 Feminino,60,Fundamental incompleto,Ótima,Candidato 2,55-64,2613.0,de 2 a 3
-Feminino,37,Superior completo,Boa,Não sabem/Não responderam,35-44,7838.0,de 5 a 10
+Feminino,37,Superior completo,Boa,Não sabem,35-44,7838.0,de 5 a 10
 Feminino,48,Superior completo,Ótima,Candidato 2,45-54,4180.5,de 3 a 5
-Feminino,49,Superior completo,Regular positiva,Não sabem/Não responderam,45-54,7838.0,de 5 a 10
+Feminino,49,Superior completo,Regular positiva,Não sabem,45-54,7838.0,de 5 a 10
 Feminino,21,Médio completo,Regular negativa,Ninguém/Branco/Nulo,17-24,2613.0,de 2 a 3
-Feminino,18,Médio incompleto,Ruim,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Feminino,18,Médio incompleto,Ruim,Não sabem,17-24,2613.0,de 2 a 3
 Feminino,25,Superior completo,Boa,Candidato 2,25-34,2613.0,de 2 a 3
 Feminino,50,Superior completo,Regular negativa,Candidato 6,45-54,2613.0,de 2 a 3
-Feminino,18,Médio completo,Boa,Não sabem/Não responderam,17-24,1568.0,de 1 a 2
+Feminino,18,Médio completo,Boa,Não sabem,17-24,1568.0,de 1 a 2
 Feminino,19,Superior incompleto,Boa,Candidato 2,17-24,7838.0,de 5 a 10
 Feminino,20,Médio completo,Boa,Candidato 2,17-24,7838.0,de 5 a 10
 Feminino,18,Médio incompleto,Ótima,Candidato 14,17-24,2613.0,de 2 a 3
 Feminino,22,Médio completo,Regular positiva,Ninguém/Branco/Nulo,17-24,2613.0,de 2 a 3
 Feminino,45,Superior incompleto,Ótima,Candidato 2,45-54,2613.0,de 2 a 3
-Feminino,18,Médio completo,Regular negativa,Não sabem/Não responderam,17-24,2613.0,de 2 a 3
+Feminino,18,Médio completo,Regular negativa,Não sabem,17-24,2613.0,de 2 a 3
