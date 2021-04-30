@@ -3,7 +3,8 @@ Script para criar as descrições dos gráficos na aplicação.
 """
 
 descricao_plot01 = """
-O Candidato 2 está muito à frente de seus concorrentes com 523 intenções de voto (52.3%).<br>
+O Candidato 2 está muito à frente de seus concorrentes com 523 intenções de voto que representam 52.3%.
+Ele possui mais intenções de voto que todos os outros candidatos combinados que somam 19.5%.<br>
 O segundo colocado, Candidato 1, possui apenas 4.2% das intenções.<br>
 Quem não soube dizer e intenções em branco/nulo somam 28.2%.
 """
@@ -17,6 +18,8 @@ A maioria das pessoas que não estão satisfeitas com o governo não possuem can
 sexo = """
 Para o Candidato 2 as intenções de voto do público feminino são majoritárias. 
 Das 553 intenções de voto, 56% são votos femininos.<br>
+A proporção de entrevistados femininos sobre masculinos no total é de 1.2 (545 / 455). 
+Já a proporção do voto feminino para o Candidato 2 é um pouco maior: 1.3 (295 / 228).
 O Candidato 1 possui em sua maioria intenções de voto masculino. Cerca de 74% das 42 intenções.
 """
 
