@@ -38,12 +38,15 @@ opcoes = list(colunas_disponiveis(dados))
 linhas = col1.multiselect(label='Selecione as linhas', options=opcoes)
 colunas = col2.multiselect(label='Selecione as colunas', options=opcoes)
 
-
 if __name__ == '__main__':
 
     # Tabela de contingência
     if linhas and colunas:
-        tabela_de_contingencia = tabela_contingencia(dados=dados, linhas=linhas, colunas=colunas)
+        margens = col1.checkbox(label='Margens')
+        tabela_de_contingencia = tabela_contingencia(dados=dados, 
+                                                     linhas=linhas, 
+                                                     colunas=colunas, 
+                                                     margens=margens)
         st.table(tabela_de_contingencia)
     else:
         create_space()
