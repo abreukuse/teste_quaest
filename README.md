@@ -7,7 +7,7 @@ Eu também criei um notebook com algumas análises iniciais e visualizações. E
 
 #### Demonstração
 
-![](C:\Users\tkuse\Documents\teste_quaest\demonstracao.gif)
+![](https://github.com/abreukuse/teste_quaest/blob/master/demonstracao.gif)
 
 
 
