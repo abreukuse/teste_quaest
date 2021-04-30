@@ -83,7 +83,7 @@ def trocar_valores(dados, coluna):
     replace_values = dict(zip(faixas_salario_minimo, replace_for))
 
     # troca na coluna 'Intenção de voto'
-    replace_values.update({'NS/NR': 'Não sabem'})
+    replace_values.update({'NS/NR': 'Não sabem', 'Ninguém/Branco/Nulo': 'Branco/Nulo'})
     
     return dados.replace(replace_values, inplace=True)
 
