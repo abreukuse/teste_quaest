@@ -9,41 +9,39 @@ O segundo colocado, Candidato 1, possui apenas 4.2% das intenções.<br>
 Quem não soube responder e as intenções em branco/nulo somam 28.2%.
 """
 
-avaliacao_governo = """
-Cerca de 45% dos respondentes que consideram votar no Candidato 2 avaliam o governo de forma positiva como Ótimo ou Bom 
-(154 e 300 pessoas respectivamente).<br>
-A maioria das pessoas que não estão satisfeitas com o governo não possuem candidato.
+intencao_voto = """
+As maior parte das pessoas consultadas que avaliam o governo de forma positiva apresentaram a intenção de votar no Candidato 2. 
+Foram 300, 154 e 59 intenções correspondentes às avaliações: Boa, Ótima e Regular positiva respectivamente.<br>
+Participantes da pesquisa que demonstraram insatisfação com o governo não possuem candidato na sua maioria.
 """
 
 sexo = """
-Para o Candidato 2 as intenções de voto do público feminino são majoritárias. 
-Das 523 intenções de voto, 56% são votos femininos.<br>
-O Candidato 1 possui em sua maioria intenções de voto masculino. Cerca de 74% das 42 intenções.
+Com relação ao sexo dos participantes, a maior parte (54.5%) dos entrevistados faziam parte do público feminino. 
+Aproximadamente essa mesma porcentagem é mantida para a avaliação 'Boa' do governo (246 de 443).<br>
+Já para a avaliação 'Ótima' a porcentagem do público feminino que escolheu essa opção sobe para 65%.<br>
+O público masculino tende a ter uma porcentagem  maior para avaliações negativas do governo.
 """
 
 escolaridade = """
-A maior parte dos eleitores do Candidato 2 possuem o ensino médio completo (34%). 
-Seguido dos participantes com ensino fundamental incompleto (20%).<br>
-Ainda considerando o Candidato 2, a proporção de participantes com ensino superior 
-completo que consideram esse voto é de 15%.
+Respondentes com o ensino médio completo e superior completo formam a 
+maioria na avaliação 'Boa' do governo.<br>
+Participantes com superior completo são a maior parte que avaliam o governo como 'Péssimo'. 
+Vale ressaltar que o público com ensino superior completo não são a maioria dos entrevistados, 
+ficam em segundo lugar com 19.5% do total.
 """
 
 faixa_etaria = """
-A maioria dos votantes do Candidato 2 possuem idade entre 55 e 64 anos. São 115 das 523 intenções.
-A menor proporção de votos para Candidato 2 fica na faixa mais jovem que vai de 17 a 24 anos (12%).<br>
-Nenhum outro candidato se destaca por ter uma proporção de votos muito maior com relação a alguma faixa etária.
+O público mais jovem é minoria na avaliação 'Ótima' e 'Boa' 
+do governo. Já a faixa entre 55 e 64 anos são a maioria nessa duas classes de avaliação.
 """
 
 salario_minimo = """
-26% dos participantes que votam no Candidato 2 fazem parte de uma 
-família com renda entre um e dois salários mínimos.<br>
-Pessoas com renda até um salário mínimo também consideram o Candidato 2. São pelo menos 20%.<br>
-O menor grupo para este candidato são de pessoas com renda familiar maior que 20 salários mínimos.
-Somente 3.
+Todas as categorias de avaliação do governo apresentam aproximadamente as 
+mesmas proporções com relação ao salário mínimo.
 """
 
 def descricoes_plot02():
-    descricoes = {'Avaliação do governo': avaliacao_governo,
+    descricoes = {'Intenção de voto': intencao_voto,
                   'Sexo': sexo,
                   'Escolaridade': escolaridade,
                   'Faixa etária': faixa_etaria,
