@@ -61,8 +61,8 @@ if __name__ == '__main__':
 
     # Segunda visualização
     grafico_02 = st.sidebar.checkbox(label='Mostrar o segundo gráfico.')
-    default_variable = opcoes.index('Avaliação do governo')
-    variavel_comparacao = [item for item in opcoes if item != 'Intenção de voto']
+    variavel_comparacao = [item for item in opcoes if item != 'Avaliação do governo']
+    default_variable = variavel_comparacao.index('Intenção de voto')
 
     if grafico_02:
         st.header('Segundo gráfico')
@@ -74,7 +74,7 @@ if __name__ == '__main__':
                                    options=['relative','overlay','group'], index=0)
 
         st.plotly_chart(plot_02(dados=dados,
-                                coluna_voto='Intenção de voto',
+                                avaliacao_governo='Avaliação do governo',
                                 variavel=variavel, 
                                 barmode=barmode), use_container_width=True)
         st.markdown(descricoes_plot02()[variavel], unsafe_allow_html=True)
