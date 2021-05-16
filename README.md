@@ -2,7 +2,7 @@
 ### Tobias de Abreu Kuse
 
 Eu fiz uma aplicação online contendo a tabela de contingência e os gráficos requisitados.<br>
-Ela pode ser acessada nesse link: https://avaliacao-quaest.herokuapp.com/. (Talvez demore alguns segundos par abrir)<br>
+Ela pode ser acessada nesse link: https://avaliacao-quaest.herokuapp.com/. (Talvez demore alguns segundos para abrir)<br>
 
 Eu também criei um notebook com algumas análises iniciais e visualizações. Ele pode ser visto [aqui](https://nbviewer.jupyter.org/github/abreukuse/teste_quaest/blob/master/teste_quaest.ipynb).
 
